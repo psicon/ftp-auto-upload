@@ -1,4 +1,4 @@
-# Auto ftp upload files on change
+# Auto ftp upload files on change in directory
 
 This script watches a set of directories for changes in files and uploads them to a distant ftp server.
 
